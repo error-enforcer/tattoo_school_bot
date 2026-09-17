@@ -154,14 +154,14 @@ def main_menu_keyboard():
     keyboard = [
         [
             InlineKeyboardButton(
-                "🎨 Тату",
-                callback_data="tattoo"
+                "🎓 Академія",
+                callback_data="academy"
             )
         ],
         [
             InlineKeyboardButton(
-                "🎓 Академія",
-                callback_data="academy"
+                "🎨 Тату",
+                callback_data="tattoo"
             )
         ],
     ]
